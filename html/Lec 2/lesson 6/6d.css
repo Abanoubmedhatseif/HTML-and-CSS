@@ -1,0 +1,15 @@
+dev{
+  width: 150px;
+  height: 200px;
+  text-align: left;
+}
+header {
+font-weight: bold;
+font-size: larger;
+font-family: Montserrat ;
+padding-left: 70px;
+}
+p{
+width: 100%;
+height: 100%;
+}

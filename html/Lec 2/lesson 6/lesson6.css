@@ -1,0 +1,42 @@
+
+    #link:hover{
+        color: brown;
+    }
+    #product_name{
+        font-size: xx-large;
+        font-weight:bolder;
+    }
+    #price{
+        color: rgb(0, 118, 0);
+        font-weight:bold;   
+    }
+    #addbutton{
+        background-color: rgb(255, 216, 20);
+        color: black;
+        border: none;
+        border-radius: 50px;
+        width: 110px;
+        height: 25px;
+        margin-right: 7px;
+    }
+    #addbutton:hover{
+        background-color:rgb(234, 196, 1);
+    }
+    #addbutton:active{
+        background-color:rgb(250, 227, 109);
+    }
+
+    #buybutton{
+        background-color: rgb(255, 164, 28);
+        color: black;
+        border: none;
+        border-radius: 50px;
+        width: 110px;
+        height: 25px;
+    }
+    #buybutton:hover{
+        background-color: rgb(220, 132, 0);
+    }
+    #buybutton:active{
+        background-color: rgb(249, 186, 92);
+    }
